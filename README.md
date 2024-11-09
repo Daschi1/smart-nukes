@@ -19,3 +19,7 @@ Upgrade your tactical options with **Smart Nukes**, a mod that introduces advanc
 ### Technology
 
 Unlock **Smart Nukes Technology** to access these advanced nukes.
+
+### Inspiration
+
+Inspired by the Warp Nuke from [Warptorio](https://mods.factorio.com/mod/warptorio2).

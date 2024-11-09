@@ -8,6 +8,6 @@
         "base >= 2.0.15",
         "? space-age >= 2.0.15"
     ],
-    "description": "Advanced nukes that selectively target either hostile forces or natural obstacles.",
+    "description": "Advanced nukes that selectively target either hostile forces or natural obstacles. Inspired by the Warp Nuke from Warptorio.",
     "homepage": "https://github.com/Daschi1/smart-nukes"
 }
