@@ -18,7 +18,7 @@ Upgrade your tactical options with **Smart Nukes**, a mod that introduces advanc
 
 ### Technology
 
-Unlock **Smart Nukes Technology** to access these advanced nukes.
+Unlock the **Smart Nukes Technology** to access the smart nukes.
 
 ### Inspiration
 
