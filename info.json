@@ -1,0 +1,13 @@
+{
+    "name": "smart-nukes",
+    "version": "1.0.0",
+    "title": "Smart nukes",
+    "author": "Daschi",
+    "factorio_version": "2.0.15",
+    "dependencies": [
+        "base >= 2.0.15",
+        "? space-age >= 2.0.15"
+    ],
+    "description": "Advanced nukes that selectively target either hostile forces or natural obstacles.",
+    "homepage": "https://github.com/Daschi1/smart-nukes"
+}
