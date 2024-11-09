@@ -1,4 +1,4 @@
-# Smart nukes Mod
+# Factorio Smart nukes Mod
 
 Upgrade your tactical options with **Smart nukes**, a mod that introduces advanced, specialized nukes for selective targeting.
 
