@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "title": "Smart nukes",
     "author": "Daschi",
-    "factorio_version": "2.0.15",
+    "factorio_version": "2.0",
     "dependencies": [
         "base >= 2.0.15",
         "? space-age >= 2.0.15"
