@@ -22,4 +22,4 @@ Unlock **Smart Nukes Technology** to access these advanced nukes.
 
 ### Inspiration
 
-Inspired by the Warp Nuke from [Warptorio](https://mods.factorio.com/mod/warptorio2).
+Inspired by the *Warp Nuke* from [Warptorio](https://mods.factorio.com/mod/warptorio2).
