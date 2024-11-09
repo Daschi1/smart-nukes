@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 09. 11. 2024
+  Features:
+    - Added Smart nuke
+    - Added Environmental nuke
+    - Added Smart nukes Technology
+  Info:
+    - Initial release
